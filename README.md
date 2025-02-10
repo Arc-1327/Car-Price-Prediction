@@ -40,11 +40,17 @@ delivers valuable and precise pricing insights for consumers.
 * **Version Control**: Git, GitHub
 
 ## Installation 
+```bash
 git clone https://github.com/Arc-1327/Car-Price-Prediction.git
 cd Car-Price-Prediction
 python -m venv env
 env\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
+```
+## Contributing
+
+
+
 
 
