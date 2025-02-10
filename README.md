@@ -49,6 +49,20 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## Contributing
+Contributions are always appreciated! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/improvement`).
+6. Create a new Pull Request.
+
+## License
+This project is under [MIT Licence](LICENSE)
+
+## Contact
+For any inquiries or feedback, please contact [Archana T Dharan] at [archanatdharan1307@gmail.com]
 
 
 
