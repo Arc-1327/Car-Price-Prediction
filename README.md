@@ -30,3 +30,11 @@ delivers valuable and precise pricing insights for consumers.
 4. **View the Results**: The estimated price is displayed on the screen.  
 5. **Modify & Recalculate**: Try different values to analyze price variations.  
 
+## Technologies Used 
+* **Machine Learning Models**: Gradient Boosting, Random Forest, XGBoost
+* **Data Processing**: Pandas, NumPy
+* **Exploratory Data Analysis (EDA)**: Matplotlib, Seaborn
+* **Web App Development**: Streamlit
+* **Model Deployment**: Streamlit Cloud
+* **Programming Language**: Python
+* **Version Control**: Git, GitHub
