@@ -8,22 +8,20 @@ delivers valuable and precise pricing insights for consumers.
 <p align="center">
   <br>
   <img src="https://github.com/user-attachments/assets/679420e1-c62d-42f1-b0c2-31cde7aba723"/>
-  </p>
-  <br>
-
+</p>
 <p align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/5bd2db77-3b01-407e-ab3f-280319150559"/>
-  </p> 
-  <br>
+  <img src="https://github.com/user-attachments/assets/705a0544-b9a7-4cbc-a254-cf98eae8772a"/>
+</p> 
+<br>
 
 ## Features
-* Machine Learning-Based Pricing: Utilizes Gradient Boosting Regressor for accurate car price predictions.
-* Exploratory Data Analysis (EDA): Identifies key factors like brand, mileage, fuel type, and vehicle age affecting prices.
-* Feature Engineering & Preprocessing: Handles missing values, outliers, and categorical encoding for better model performance.
-* Model Comparison & Evaluation: Compares Linear Regression, Decision Tree, Random Forest, and XGBoost to find the best model.
-* Web App Deployment: Built with Streamlit, allowing users to input car details and get real-time price estimates.
-* Practical Applications: Helps buyers, sellers, and dealerships make data-driven pricing decisions.
+* **Machine Learning Model**: Uses Gradient Boosting Regressor for accurate price predictions.
+* **Data Analysis**: Explores key factors like brand, mileage, fuel type, and vehicle age.
+* **Feature Engineering**: Handles missing values, outliers, and categorical encoding.
+* **Model Evaluation**: Compares Linear Regression, Decision Tree, Random Forest, and XGBoost.
+* **Web App Deployment**: Built with Streamlit for real-time car price estimation.
+* **Real-World Use**: Helps buyers, sellers, and dealerships make informed decisions.
 
 ## Usage  
 1. **Open the Web App**: [Car Price Prediction](https://car-price-prediction-2kevc4iyv5vrexssiocuoz.streamlit.app/)  
