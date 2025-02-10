@@ -50,7 +50,6 @@ streamlit run app.py
 ```
 ## Contributing
 Contributions are always appreciated! If you'd like to contribute to this project, please follow these steps:
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/improvement`).
 3. Make your changes.
